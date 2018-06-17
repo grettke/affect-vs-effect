@@ -2,7 +2,7 @@
 
 ;; Copyright (C) 2018  Grant Rettke
 
-;; Author: Grant Rettke <gcr@mara>
+;; Author: Grant Rettke <gcr@wisdomandwonder.com>
 ;; Keywords: languages
 
 ;; This program is free software; you can redistribute it and/or modify
